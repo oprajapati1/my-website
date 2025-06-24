@@ -47,7 +47,7 @@ export default function Home() {
             <div className="space-y-6 md:w-1/2">
               <FadeIn>
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
-                  Hi, I'm <span className="text-primary">Om</span>
+                  Hi, I&apos;m <span className="text-primary">Om</span>
                 </h1>
               </FadeIn>
               <FadeIn delay={0.1}>
