@@ -121,12 +121,12 @@ export default function Home() {
               </FadeIn>
               <FadeIn delay={0.1}>
                 <p className="mx-auto max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7 mb-6">
-                  I also enjoy building, tinkering, and writing code that is at the cutting edge from XR/AR to AI to Blockchain. I'm incredibly drawn to the potential of these technologies -- experimenting with tools, building my own, and following this race.
+                  I also enjoy building, tinkering, and writing code that is at the cutting edge from XR/AR to AI to Blockchain. I&apos;m incredibly drawn to the potential of these technologies -- experimenting with tools, building my own, and following this race.
                 </p>
               </FadeIn>
               <FadeIn delay={0.2}>
                 <p className="mx-auto max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7">
-                  Currently, I'm working at OnPoint Surgical, an early-stage startup, where I'm developing AR-guided surgical navigation systems. Previously, I was at Insulet, working on insulin pod testing software. My experience spans from medical device development to full-stack web applications, with a particular interest in emerging technologies like AI, XR/AR, and Blockchain.
+                  Currently, I&apos;m working at OnPoint Surgical, an early-stage startup, where I&apos;m developing AR-guided surgical navigation systems. Previously, I was at Insulet, working on insulin pod testing software. My experience spans from medical device development to full-stack web applications, with a particular interest in emerging technologies like AI, XR/AR, and Blockchain.
                 </p>
               </FadeIn>
             </ParallaxScroll>
@@ -225,8 +225,7 @@ export default function Home() {
             </FadeIn>
             <FadeIn delay={0.1}>
               <p className="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7">
-                I'm currently open to new opportunities. Whether you have a question or just want to say hi, I'll try my
-                best to get back to you!
+                I&apos;m currently open to new opportunities. Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
               </p>
             </FadeIn>
             <FadeIn delay={0.2} className="mt-6 flex flex-col gap-4 min-[400px]:flex-row">
