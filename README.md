@@ -1,2 +1,2 @@
 # my-website
-showing myself off ;)
+hi this is the code for my website
