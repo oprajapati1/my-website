@@ -224,7 +224,7 @@ export default function Home() {
               <h2 className="text-3xl font-bold leading-[1.1] sm:text-3xl md:text-5xl">Get In Touch</h2>
             </FadeIn>
             <FadeIn delay={0.1}>
-              <p className="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7">
+              <p className="mx-auto max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7">
                 I&apos;m currently open to new opportunities. Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
               </p>
             </FadeIn>
